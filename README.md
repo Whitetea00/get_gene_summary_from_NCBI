@@ -8,7 +8,7 @@ Query gene [macrophage stimulating 1] result:
 
 Gene ID: 4485
 Gene Name: MST1
-Gene Full Namemacrophage stimulating 1
+Gene Full Name: macrophage stimulating 1
 Gene Summary: The protein encoded by this gene contains four kringle domains and a serine protease domain, similar to that found in hepatic growth factor. Despite the presence of the serine protease domain, the encoded protein may not have any proteolytic activity. The receptor for this protein is RON tyrosine kinase, which upon activation stimulates ciliary motility of ciliated epithelial lung cells. This protein is secreted and cleaved to form an alpha chain and a beta chain bridged by disulfide bonds. [provided by RefSeq, Jan 2010]
 NCBI URL: https://www.ncbi.nlm.nih.gov/gene/4485
 -------------------------
