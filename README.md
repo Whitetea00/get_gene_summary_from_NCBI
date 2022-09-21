@@ -1,7 +1,9 @@
 # get_gene_summary_from_NCBI
 Use gene name or full name query summary form NCBI.
 
-运行结果：
+Used biopython package.
+
+## 运行结果：
 ```
 Query gene [macrophage stimulating 1] result: 
 
@@ -29,7 +31,7 @@ NCBI URL: https://www.ncbi.nlm.nih.gov/gene/6789
 但是，我相信你一定可以的！
 
 
-开发计划
+## 开发计划
 1. 增加异常处理功能
 2. 增加批处理功能（从csv中读取批量基因名称，自动生成数据列表）
 3. 增加基因查询结果比对的功能，让我们可以直观的看到检索到的结果是否与自己预期结果相匹配
