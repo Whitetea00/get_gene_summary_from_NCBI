@@ -1,9 +1,9 @@
 # get_gene_summary_from_NCBI
 Use gene name or full name query summary form NCBI.
 
-Used biopython package.
+## Used biopython package.
 
-## 运行结果：
+## Test Result
 ```
 Query gene [macrophage stimulating 1] result: 
 
